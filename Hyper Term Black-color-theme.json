@@ -942,7 +942,7 @@
 		  "name": "Embedded",
 		  "scope": "punctuation.section.embedded, variable.interpolation",
 		  "settings": {
-			"foreground": "#7344be"
+			"foreground": "#fd3939"
 		  }
 		},
 		{
