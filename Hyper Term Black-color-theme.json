@@ -13,7 +13,7 @@
 		"diffEditor.insertedTextBackground": "#00809B33",
 		"dropdown.border": "#181A1F",
 		"editor.background": "#000000",
-		"editorError.foreground": "#c24038",
+		"editorError.foreground": "#be6b44",
 		"editorMarkerNavigation.background": "#21252b",
 		"editorRuler.foreground": "#AAB1C026",
 		"editor.lineHighlightBackground": "#000000",
@@ -70,7 +70,7 @@
 		"titleBar.inactiveForeground": "#6B717D",
 		"listFilterWidget.background": "#000000", 
 		"listFilterWidget.outline": "#4D78CC",
-		"listFilterWidget.noMatchesOutline": "#c24038"
+		"listFilterWidget.noMatchesOutline": "#be6b44"
 	  },
 	  "tokenColors": [
 		{
@@ -187,7 +187,7 @@
 		  "name": "js/ts import keyword",
 		  "scope": "keyword.operator.expression.import",
 		  "settings": {
-			"foreground": "#52ADF2"
+			"foreground": "#CCA700"
 		  }
 		},
 		{
@@ -237,7 +237,7 @@
 		  "name": "java modifier.import",
 		  "scope": "meta.method.java",
 		  "settings": {
-			"foreground": "#52ADF2"
+			"foreground": "#CCA700"
 		  }
 		},
 		{
@@ -368,7 +368,7 @@
 		  "name": "js console function",
 		  "scope": "entity.name.function,support.function.console",
 		  "settings": {
-			"foreground": "#52ADF2"
+			"foreground": "#CCA700"
 		  }
 		},
 		{
@@ -482,7 +482,7 @@
 		  "name": "python function-call.generic",
 		  "scope": "meta.function-call.generic.python",
 		  "settings": {
-			"foreground": "#52ADF2"
+			"foreground": "#CCA700"
 		  }
 		},
 		{
@@ -553,7 +553,7 @@
 		  "scope":
 			"entity.name.function, meta.require, support.function.any-method",
 		  "settings": {
-			"foreground": "#52ADF2"
+			"foreground": "#CCA700"
 		  }
 		},
 		{
@@ -581,7 +581,7 @@
 		  "name": "Class name",
 		  "scope": "entity.name.class",
 		  "settings": {
-			"foreground": "#52ADF2"
+			"foreground": "#CCA700"
 		  }
 		},
 		{
@@ -609,7 +609,7 @@
 		  "name": "Methods",
 		  "scope": "keyword.other.special-method",
 		  "settings": {
-			"foreground": "#52ADF2"
+			"foreground": "#CCA700"
 		  }
 		},
 		{
@@ -744,7 +744,7 @@
 		  "name": "Attribute IDs",
 		  "scope": "entity.other.attribute-name.id",
 		  "settings": {
-			"foreground": "#52ADF2",
+			"foreground": "#CCA700",
 			"fontStyle": "normal"
 		  }
 		},
@@ -783,7 +783,7 @@
 		  "scope":
 			"markup.heading punctuation.definition.heading, entity.name.section",
 		  "settings": {
-			"foreground": "#52ADF2"
+			"foreground": "#CCA700"
 		  }
 		},
 		{
@@ -907,7 +907,7 @@
 		  "scope":
 			"string.other.link.title.markdown,string.other.link.description.markdown",
 		  "settings": {
-			"foreground": "#52ADF2"
+			"foreground": "#CCA700"
 		  }
 		},
 		{
@@ -942,7 +942,7 @@
 		  "name": "Embedded",
 		  "scope": "punctuation.section.embedded, variable.interpolation",
 		  "settings": {
-			"foreground": "#fd3939"
+			"foreground": "#52ADF2"
 		  }
 		},
 		{
@@ -1098,7 +1098,7 @@
 		  "scope":
 			"meta.function-call.php,meta.function-call.object.php,meta.function-call.static.php",
 		  "settings": {
-			"foreground": "#52ADF2"
+			"foreground": "#CCA700"
 		  }
 		},
 		{
@@ -1121,7 +1121,7 @@
 		  "name": "php goto",
 		  "scope": "entity.name.goto-label.php,support.other.php",
 		  "settings": {
-			"foreground": "#52ADF2"
+			"foreground": "#CCA700"
 		  }
 		},
 		{
@@ -1164,7 +1164,7 @@
 		  "name": "python function decorator @",
 		  "scope": "meta.function.decorator.python",
 		  "settings": {
-			"foreground": "#52ADF2"
+			"foreground": "#CCA700"
 		  }
 		},
 		{
